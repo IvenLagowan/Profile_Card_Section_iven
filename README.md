@@ -4,4 +4,4 @@
 
 I created my own profile card to show that I'm a developer📚🖥️
 
-## Halaman Github Page ('');
+## Halaman Github Page ('https://ivenlagowan.github.io/Profile_Card_Section_iven/');
